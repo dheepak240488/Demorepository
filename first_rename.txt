@@ -3,3 +3,4 @@ my first file
 i want to this to go into commit
 
 This line is added
+this is bug fixed
